@@ -1,6 +1,6 @@
 ![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
 
-## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+## 👉 [Orginal Repository](https://github.com/pawan999456/TorrentLeech-Gdrive)
 
 ![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
 
@@ -154,7 +154,7 @@
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
-## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://GitHub.com/MaxxRider/About-Leech)
+## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://GitHub.com/pawan999456/About-Leech)
 
 
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
